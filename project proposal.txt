@@ -1,0 +1,19 @@
+PROJECT PLAN
+
+Project Tasks:
+Define project scope
+Identify stakeholders
+Create WBS
+Prepare risk analysis
+Prepare project schedule
+Write final report
+Timeline:
+Day 1–2: Scope & stakeholders
+Day 3–4: WBS creation
+Day 5: Risk analysis
+Day 6: Schedule preparation
+Day 7: Final report
+Team Roles:
+Member 1: Planning & scope
+Member 2: Risk & schedule
+Member 3: Documentation & report
