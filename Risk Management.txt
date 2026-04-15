@@ -1,0 +1,19 @@
+RISK MANAGEMENT PLAN
+
+Identified Risks:
+Delay in task completion
+Probability: Medium
+Impact: High
+Mitigation: Assign deadlines and monitor progress in Trello
+Lack of communication
+Probability: Medium
+Impact: High
+Mitigation: Regular team updates and meetings
+File loss or version confusion
+Probability: Low
+Impact: High
+Mitigation: Use GitHub version control and commits
+Unequal workload distribution
+Probability: Medium
+Impact: Medium
+Mitigation: Assign clear responsibilities to each member
