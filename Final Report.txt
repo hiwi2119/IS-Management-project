@@ -1,0 +1,15 @@
+FINAL REPORT
+
+Trello Usage:
+
+Trello was used to manage tasks using lists such as To Do, In Progress, Testing, and Completed. It helped track progress and assign responsibilities.
+
+GitHub Usage:
+
+GitHub was used to store project files, track changes using commits, and manage tasks using Issues.
+
+Benefits:
+Better teamwork
+Improved task organization
+Clear progress tracking
+Version control for documents
